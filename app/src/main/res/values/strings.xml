@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Glass Impress Remote</string>
+    <string name="title_activity_select_server">Select Server</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
